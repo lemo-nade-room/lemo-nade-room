@@ -1,4 +1,4 @@
-## Lemo-nade-room: 田中 
+# Lemo-nade-room: 田中 
 
 <p align="left"> 
   <a href="http://x.com/lemo-nade-room"><img height="20" src="https://img.shields.io/twitter/follow/lemo-nade-room?style=flat&logo=x" /></a>
@@ -22,7 +22,7 @@ Server-Side Swiftが趣味
 | 学位 | 情報工学科 準学士 |
 
 
-### アクティビティ
+## アクティビティ
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=lemo-nade-room&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=tokyonight&locale=ja" /></a>
@@ -34,9 +34,8 @@ Server-Side Swiftが趣味
 [![](https://github-readme-activity-graph.vercel.app/graph?username=lemo-nade-room&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
-### 言語
+## 言語
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemo-nade-room&theme=tokyonight&locale=ja)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemo-nade-room&theme=tokyonight&locale=ja)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lemo-nade-room&layout=compact&count_private=true&show_icons=true&theme=tokyonight&locale=ja&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
