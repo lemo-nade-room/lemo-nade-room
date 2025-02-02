@@ -1,7 +1,7 @@
 # Lemo-nade-room: 田中 
 
 <p align="left"> 
-  <a href="http://x.com/lemo-nade-room"><img height="20" src="https://img.shields.io/twitter/follow/lemo-nade-room?style=flat&logo=x" /></a>
+  <a href="https://x.com/Lemo_nade_room"><img height="20" src="https://img.shields.io/twitter/follow/Lemo_nade_room?style=flat&logo=x" /></a>
   <a href="https://zenn.dev/nitnc_tanaka"><img height="20" src="https://badgen.org/img/zenn/nitnc_tanaka/likes?style=plastic" alt="Likes" /></a>
   <a href="https://zenn.dev/nitnc_tanaka"><img height="20" src="https://badgen.org/img/zenn/nitnc_tanaka/followers?style=plastic" alt="Followers" /></a>
   <a href="https://zenn.dev/nitnc_tanaka"><img height="20" src="https://badgen.org/img/zenn/nitnc_tanaka/articles?style=plastic" alt="Articles" /></a>
