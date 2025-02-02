@@ -15,9 +15,9 @@ Server-Side Swiftが趣味
 | --- | --- |
 | 生年月日 | 2003年08月25日 |
 | 職業 | Web系ソフトウェア開発 |
-| 言語 | Swift, TypeScript, SQL, Scala, PHP, Java, Go, Python, C#, Zig, C... |
-| フレームワーク/ライブラリ | Vapor, Svelte, Vue, Angular, React, Play, Laravel, Spark, Gin... |
-| ツール | Figma, Canva, IDEA, Xcode, NeoVim, Docker, Apache, Nginx, Ubuntu, PostgreSQL, MySQL, SQLite, Redis, Kafka... |
+| 言語 | Swift, TypeScript, SQL, Scala, PHP, Java, Go, ... |
+| フレームワーク/ライブラリ | Vapor, Svelte, Vue, Angular, React, Play, Laravel, Spark, Gin, ... |
+| ツール | Figma, Canva, IDEA, Xcode, NeoVim, Docker, Apache, Nginx, Ubuntu, PostgreSQL, MySQL, SQLite, Redis, Kafka, DynamoDB, ... |
 | 資格 | 基本情報技術者, 応用情報技術者, 漢検3級 |
 | 学位 | 情報工学科 準学士 |
 
